@@ -12,8 +12,8 @@ Here are some examples of better informed decisions, waste less, eat healthier, 
 | :---  |  :--- |  :---  |  :---  |
 | Environmental Impact | Non-recyclable waste | How many bags of non-recyclable and non-compostable trash/garbage every day?||
 | Environmental Impact | How much water been saved | re-used my kitchen water for gardening ||
-| Community Impact | Positive interaction | How many postive interactions you have with other humans? ||
+| Community Impact | Positive interaction | How many positive interactions you have with other humans? ||
 | Community Impact | Negative Interaction | How many negative interactions you have with other humans?||
-| Self Awareness | are you healthy today? |||
+| Self Awareness | Are you healthy today? |||
 | Self Awareness | Have you taken good care of yourself?||
 | Self Awareness | How many time you smiled or laughed today? ||
