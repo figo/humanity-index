@@ -1,9 +1,9 @@
 ### What is humanity index
 
-Every person in the planet is invaluable, but we don't know how much positive impact each person bring in everyday, how each person suffering everyday. if we can succefully measure them, and be aware of them on daily basis, empathy arise, motivation arise, our world will be a better world when we all take actions to improve the humanity index.
+Every person on the planet is invaluable, but we don't know how much positive impact each person brings in everyday, how each person suffers everyday. If we can measure those, and be aware of those on a daily basis, empathy and motivation will arise, our world will be a better place when we all take actions to improve the humanity index.
 
 
-Here are some of examples of better informed decisions, waste less, eat healthier, smile more, or even volunteer ourself at community.
+Here are some examples of better informed decisions, waste less, eat healthier, smile more, or even volunteer yourself in the community.
 
  
  ### Humanity index proposal
